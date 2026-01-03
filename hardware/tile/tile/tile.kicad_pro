@@ -412,6 +412,30 @@
     [
       "0d1a434e-f7db-4824-ad3a-5d1d7a542c63",
       "Root"
+    ],
+    [
+      "c2b2fc92-9c20-421a-ba76-44fbe5dd6a44",
+      "coil"
+    ],
+    [
+      "7ec03cb0-cab3-4963-80f4-e0918ea47a3e",
+      "coil1"
+    ],
+    [
+      "4d0e3591-b8a8-4e71-bff4-7af1f6c7ba86",
+      "coil2"
+    ],
+    [
+      "afdf5658-cca4-47b9-b796-30584965c326",
+      "coil3"
+    ],
+    [
+      "c3d83238-6946-4385-b054-312440bada46",
+      "coil4"
+    ],
+    [
+      "ff60e42f-16d6-4c76-b7db-3dc191d02d17",
+      "connectors"
     ]
   ],
   "text_variables": {}
