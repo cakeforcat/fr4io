@@ -610,7 +610,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0345d105-73da-45dc-a7b4-04a61cfd13f0")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR045"
 			(at 165.1 78.74 0)
 			(effects
 				(font
@@ -661,7 +661,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR037")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -677,7 +677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13a9e2eb-486d-4c27-9f03-2635fb6abd32")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR038"
 			(at 115.57 129.54 0)
 			(effects
 				(font
@@ -727,7 +727,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR034")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -743,7 +743,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21ab89d7-f099-422b-a68d-608de2014450")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR047"
 			(at 175.26 104.14 0)
 			(effects
 				(font
@@ -794,7 +794,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR028")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -810,7 +810,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e3ccb8d-ea0b-4658-8289-47cb1b5fa85a")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR035"
 			(at 82.55 104.14 0)
 			(effects
 				(font
@@ -861,7 +861,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR022")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -877,7 +877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c0b0d9e-1662-4644-b979-56605d732bc9")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR048"
 			(at 165.1 106.68 0)
 			(effects
 				(font
@@ -928,7 +928,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR036")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -944,7 +944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "402ebdc6-1edf-4300-a035-b126e712ffe2")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR036"
 			(at 92.71 106.68 0)
 			(effects
 				(font
@@ -995,7 +995,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR033")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -1027,7 +1027,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Horizontal"
 			(at 93.98 78.74 0)
 			(effects
 				(font
@@ -1085,7 +1085,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46cec9ae-9e75-4415-aed6-5644c7288841")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 92.71 78.74 0)
 			(effects
 				(font
@@ -1136,7 +1136,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -1152,7 +1152,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "479cade7-9221-45d9-83d8-eb2a132b69b5")
-		(property "Reference" "J4"
+		(property "Reference" "J8"
 			(at 162.56 97.79 0)
 			(effects
 				(font
@@ -1168,7 +1168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Horizontal"
 			(at 161.29 104.14 0)
 			(effects
 				(font
@@ -1210,7 +1210,7 @@
 		(instances
 			(project "tile"
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "J4")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -1226,7 +1226,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4fca754d-d301-4fda-9ae3-82f4cace3a45")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR046"
 			(at 175.26 81.28 0)
 			(effects
 				(font
@@ -1277,7 +1277,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR029")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -1293,7 +1293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "550ace45-76a3-41ad-9c02-0dbedfdecc82")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR043"
 			(at 143.51 57.15 0)
 			(effects
 				(font
@@ -1343,7 +1343,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR038")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -1359,7 +1359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b0310f2-4826-414a-b46d-5e9eefee1b43")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR044"
 			(at 143.51 129.54 0)
 			(effects
 				(font
@@ -1409,7 +1409,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR035")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -1425,7 +1425,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "615a3be3-1271-46ff-a24e-df0dc64b5ede")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR037"
 			(at 115.57 57.15 0)
 			(effects
 				(font
@@ -1475,7 +1475,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR039")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -1491,7 +1491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8632212d-0a8c-4539-b3d2-008788dd979d")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR040"
 			(at 118.11 139.7 0)
 			(effects
 				(font
@@ -1541,7 +1541,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR024")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -1557,7 +1557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c779864-aa49-4a2b-a920-6cb67441bd3b")
-		(property "Reference" "J7"
+		(property "Reference" "J3"
 			(at 109.22 59.69 0)
 			(effects
 				(font
@@ -1573,7 +1573,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Horizontal"
 			(at 115.57 60.96 0)
 			(effects
 				(font
@@ -1615,7 +1615,7 @@
 		(instances
 			(project "tile"
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "J7")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -1631,7 +1631,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8acd6b9-d9b3-466d-8742-8663b34237c2")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR042"
 			(at 140.97 139.7 0)
 			(effects
 				(font
@@ -1681,7 +1681,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR026")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -1697,7 +1697,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8dcf835-048b-410b-a3f7-43f737ed8252")
-		(property "Reference" "J8"
+		(property "Reference" "J5"
 			(at 134.62 59.69 0)
 			(effects
 				(font
@@ -1713,7 +1713,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Horizontal"
 			(at 140.97 60.96 0)
 			(effects
 				(font
@@ -1755,7 +1755,7 @@
 		(instances
 			(project "tile"
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "J8")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -1771,7 +1771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3971175-3da2-4ff5-b302-29862f83c761")
-		(property "Reference" "J3"
+		(property "Reference" "J7"
 			(at 162.56 72.39 0)
 			(effects
 				(font
@@ -1787,7 +1787,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Horizontal"
 			(at 161.29 78.74 0)
 			(effects
 				(font
@@ -1829,7 +1829,7 @@
 		(instances
 			(project "tile"
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "J3")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -1845,7 +1845,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2a1e7d3-407e-4c47-8ee1-01ed01021379")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR041"
 			(at 140.97 46.99 0)
 			(effects
 				(font
@@ -1895,7 +1895,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR030")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -1911,7 +1911,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea6b2754-1a8e-44c8-b57b-bcd56b5c65ab")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR039"
 			(at 118.11 46.99 0)
 			(effects
 				(font
@@ -1961,7 +1961,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR031")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -1993,7 +1993,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Horizontal"
 			(at 93.98 104.14 0)
 			(effects
 				(font
@@ -2067,7 +2067,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Horizontal"
 			(at 140.97 128.27 0)
 			(effects
 				(font
@@ -2125,7 +2125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f60ac635-5165-4150-a06f-2bcec88c67c7")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR034"
 			(at 82.55 81.28 0)
 			(effects
 				(font
@@ -2176,7 +2176,7 @@
 		(instances
 			(project ""
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "#PWR020")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -2192,7 +2192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7f22421-eae2-4fb5-bcc5-fc9d5181d837")
-		(property "Reference" "J5"
+		(property "Reference" "J4"
 			(at 109.22 127 0)
 			(effects
 				(font
@@ -2208,7 +2208,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x02_P1.27mm_Horizontal"
 			(at 115.57 128.27 0)
 			(effects
 				(font
@@ -2250,7 +2250,7 @@
 		(instances
 			(project "tile"
 				(path "/0d1a434e-f7db-4824-ad3a-5d1d7a542c63/ff60e42f-16d6-4c76-b7db-3dc191d02d17"
-					(reference "J5")
+					(reference "J4")
 					(unit 1)
 				)
 			)
